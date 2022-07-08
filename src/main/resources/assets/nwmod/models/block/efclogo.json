@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nwmod:blocks/efclogo",
+    "up": "nwmod:blocks/efclogo",
+    "north": "nwmod:blocks/efclogo",
+    "east": "nwmod:blocks/efclogo",
+    "south": "nwmod:blocks/efclogo",
+    "west": "nwmod:blocks/efclogo",
+    "particle": "nwmod:blocks/efclogo"
+  }
+}

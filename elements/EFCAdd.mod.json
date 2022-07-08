@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "EFC新加物品",
+    "icon": {
+      "value": "Blocks.CHAIN_COMMAND_BLOCK"
+    },
+    "showSearch": true
+  }
+}

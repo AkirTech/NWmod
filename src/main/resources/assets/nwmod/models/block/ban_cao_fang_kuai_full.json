@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "nwmod:blocks/grass",
+    "top": "nwmod:blocks/grass",
+    "side": "nwmod:blocks/grass"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "mod_elements": [
+    {
+      "name": "HuaTanDangShiTiZaiFangKuaiShangXingZouShi",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hua_tan_dang_shi_ti_zai_fang_kuai_shang_xing_zou_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HuaTan",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hua_tan"
+    },
+    {
+      "name": "EFCAdd",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efc_add"
+    },
+    {
+      "name": "BanCaoFangKuai",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ban_cao_fang_kuai"
+    },
+    {
+      "name": "WTDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wt_dang_ming_ling_bei_zhi_xing_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WT",
+      "type": "command",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wt"
+    },
+    {
+      "name": "NightvisionDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nightvision_dang_ming_ling_bei_zhi_xing_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Nightvision",
+      "type": "command",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nightvision"
+    },
+    {
+      "name": "BuildDevelopPackDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "build_develop_pack_dang_ming_ling_bei_zhi_xing_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BuildDevelopPack",
+      "type": "command",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "build_develop_pack"
+    },
+    {
+      "name": "EfchelpDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efchelp_dang_ming_ling_bei_zhi_xing_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Efchelp",
+      "type": "command",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efchelp"
+    },
+    {
+      "name": "Efctech",
+      "type": "painting",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efctech"
+    },
+    {
+      "name": "EFCLOGOFangZhiFangKuaiShi",
+      "type": "procedure",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efclogo_fang_zhi_fang_kuai_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EFCLOGO",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "efclogo"
+    },
+    {
+      "name": "Lightbubble",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightbubble"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.nwmod.hua_tan": "花坛",
+      "itemGroup.tabefc_add": "EFC新加物品",
+      "block.nwmod.ban_cao_fang_kuai": "半草方块",
+      "block.nwmod.efclogo": "EFC图标方块",
+      "block.nwmod.lightbubble": "灯泡"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nwmod",
+    "modName": "NWmod",
+    "version": "1.1.1",
+    "description": "A small mod developed by MCMjun.",
+    "author": "MCMjun,MCreator",
+    "websiteURL": "https://mcmjun.github.io/",
+    "license": "Mozilla Public License 2.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "efc_tech.",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod Auther:MCMjun , Maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcmjun.nwmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "nwmod:blocks/huatandi",
+    "top": "nwmod:blocks/huatantop",
+    "side": "nwmod:blocks/huatanzheng",
+    "overlay": "nwmod:blocks/huatanzheng",
+    "particle": "nwmod:blocks/huatandi"
+  }
+}

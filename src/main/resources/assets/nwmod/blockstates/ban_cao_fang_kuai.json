@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nwmod:block/ban_cao_fang_kuai"
+    },
+    "type=top": {
+      "model": "nwmod:block/ban_cao_fang_kuai_top"
+    },
+    "type=double": {
+      "model": "nwmod:block/ban_cao_fang_kuai_full"
+    }
+  }
+}
