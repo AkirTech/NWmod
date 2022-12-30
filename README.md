@@ -10,6 +10,5 @@ Sadly,I have met so many difficulties during the development of the mod ,due to 
 So,I abandened this project      
 The other reason is that I have no time to work on the project ,since I got into high school.     
 ### My dear friend,are you ready to pass on my project?    
-I plan to use GNU GPLv3 as the LICENSE ,but I mis-selected Mozilla Public License,,,,,,,    
-Ignore MPL,and carry it on!    
+It is under MIT License now, and you can use or modify it.    
 Thanks!    
